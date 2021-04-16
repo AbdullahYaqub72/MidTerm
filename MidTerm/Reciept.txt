@@ -1,0 +1,7 @@
+Employee Name:Abdullah
+Employee CNIC:03344381565
+Employee Mobile Number:35201128u
+Item Name:sllkd
+Item Quantity:1
+Issued By:jhsfio
+Issue Date:Fri Apr 16 12:05:56 PKT 2021
