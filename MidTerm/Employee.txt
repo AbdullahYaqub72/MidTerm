@@ -1,1 +1,3 @@
-Employee Name:Data Mobile;Employee CNIC3520113291437;Employee Mobile Number:03344381565;Employee Name:Amna;Employee CNIC3520113291437;Employee Mobile Number:03344381565;
+Employee Name:Abdullah;Employee CNIC:3520113291435;Employee Mobile Number:03344381565
+Employee Name:Abdullah Yaqub;Employee CNIC:1234567891111;Employee Mobile Number:03124067306
+Employee Name:Abdullah Butt;Employee CNIC:1234567891113;Employee Mobile Number:03124123456

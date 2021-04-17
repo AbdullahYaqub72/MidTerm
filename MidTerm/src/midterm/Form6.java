@@ -55,16 +55,27 @@ public class Form6 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Elephant", 1, 18)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(0, 0, 0));
         jLabel1.setText("RECIEPT FOR EMPLOYEE");
 
+        jLabel2.setFont(new java.awt.Font("Elephant", 0, 14)); // NOI18N
+        jLabel2.setForeground(new java.awt.Color(0, 0, 0));
         jLabel2.setText("Employee Name ");
 
+        jLabel3.setFont(new java.awt.Font("Elephant", 0, 14)); // NOI18N
+        jLabel3.setForeground(new java.awt.Color(0, 0, 0));
         jLabel3.setText("Mobile Number");
 
+        jLabel4.setFont(new java.awt.Font("Elephant", 0, 14)); // NOI18N
+        jLabel4.setForeground(new java.awt.Color(0, 0, 0));
         jLabel4.setText("CNIC");
 
+        jLabel5.setFont(new java.awt.Font("Elephant", 0, 14)); // NOI18N
+        jLabel5.setForeground(new java.awt.Color(0, 0, 0));
         jLabel5.setText("Name of Item");
 
+        jLabel6.setFont(new java.awt.Font("Elephant", 0, 14)); // NOI18N
+        jLabel6.setForeground(new java.awt.Color(0, 0, 0));
         jLabel6.setText("Number of Item");
 
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
@@ -79,22 +90,34 @@ public class Form6 extends javax.swing.JFrame {
             }
         });
 
+        jLabel7.setFont(new java.awt.Font("Elephant", 0, 14)); // NOI18N
+        jLabel7.setForeground(new java.awt.Color(0, 0, 0));
         jLabel7.setText("Issued By");
 
+        jButton1.setBackground(new java.awt.Color(0, 0, 0));
+        jButton1.setFont(new java.awt.Font("Elephant", 1, 12)); // NOI18N
+        jButton1.setForeground(new java.awt.Color(255, 255, 255));
         jButton1.setText("Go Back");
+        jButton1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
             }
         });
 
+        jLabel8.setFont(new java.awt.Font("Elephant", 0, 14)); // NOI18N
+        jLabel8.setForeground(new java.awt.Color(0, 0, 0));
         jLabel8.setText("Date :");
 
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
 
+        jButton2.setBackground(new java.awt.Color(0, 0, 0));
+        jButton2.setFont(new java.awt.Font("Elephant", 1, 12)); // NOI18N
+        jButton2.setForeground(new java.awt.Color(255, 255, 255));
         jButton2.setText("Generate Reciept");
+        jButton2.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
@@ -226,13 +249,13 @@ public class Form6 extends javax.swing.JFrame {
         jTextArea1.setText("--------------------------------------------------------------------------------\n");
         jTextArea1.setText(jTextArea1.getText()+"--               EMPLOYEE RECIEPT FOR ITEMS      --\n");
         jTextArea1.setText(jTextArea1.getText()+"---------------------------------------------------------------------\n");
-        jTextArea1.setText(jTextArea1.getText()+"Name of Employee:"+A1+"\n");
-        jTextArea1.setText(jTextArea1.getText()+"Mobile Number of Employee:"+A2+"\n");
-        jTextArea1.setText(jTextArea1.getText()+"CNIC of Employee:"+A3+"\n");
-        jTextArea1.setText(jTextArea1.getText()+"Name of Items:"+A4+"\n");
-        jTextArea1.setText(jTextArea1.getText()+"Number of Items:"+A5+"\n");
-        jTextArea1.setText(jTextArea1.getText()+"Issued By:"+A6+"\n");
-        jTextArea1.setText(jTextArea1.getText()+"Date :"+Dat+"\n\n\n\n");
+        jTextArea1.setText(jTextArea1.getText()+"Name of Employee: "+A1+"\n");
+        jTextArea1.setText(jTextArea1.getText()+"Mobile Number of Employee: "+A2+"\n");
+        jTextArea1.setText(jTextArea1.getText()+"CNIC of Employee: "+A3+"\n");
+        jTextArea1.setText(jTextArea1.getText()+"Name of Items: "+A4+"\n");
+        jTextArea1.setText(jTextArea1.getText()+"Number of Items: "+A5+"\n");
+        jTextArea1.setText(jTextArea1.getText()+"Issued By: "+A6+"\n");
+        jTextArea1.setText(jTextArea1.getText()+"Date : "+Dat+"\n\n\n\n");
         jTextArea1.setText(jTextArea1.getText()+"Signature of the Employee\n\n");
         jTextArea1.setText(jTextArea1.getText()+"Thank you for being at University Procurement System");
         

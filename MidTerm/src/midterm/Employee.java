@@ -25,7 +25,7 @@ public class Employee {
         for(int i=0;i<name1.length();i++)
             
         {
-            if(name1.charAt(i)>='A'&&name1.charAt(i)>='Z')
+            if((name1.charAt(i)>='A'&&name1.charAt(i)>='Z')||(name1.charAt(i)>='a'&&name1.charAt(i)<='z'))
             {
                this.Name=name1;
                return true;

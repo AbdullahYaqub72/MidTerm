@@ -5,3 +5,24 @@ Item Name:sllkd
 Item Quantity:1
 Issued By:jhsfio
 Issue Date:Fri Apr 16 12:05:56 PKT 2021
+Employee Name:Abdullah
+Employee CNIC:03344381565
+Employee Mobile Number:3520113291437
+Item Name:laptop
+Item Quantity:4
+Issued By:Manager
+Issue Date:Fri Apr 16 20:48:14 PKT 2021
+Employee Name:Abdullah
+Employee CNIC:03344381565
+Employee Mobile Number:3520113291437
+Item Name:laptop
+Item Quantity:4
+Issued By:Manager
+Issue Date:Fri Apr 16 20:48:27 PKT 2021
+Employee Name:Abdullah
+Employee CNIC:03344381565
+Employee Mobile Number:3520113281437
+Item Name:Laptop
+Item Quantity:1
+Issued By:Butt
+Issue Date:Sat Apr 17 14:46:37 PKT 2021
